@@ -1,0 +1,129 @@
+/* ==================================================================================== */
+
+/* Contact Page */
+
+/* ==================================================================================== */
+
+.btn-primary{
+  background-color: black !important;
+  border: 2px solid black !important;
+  /* letter-spacing: 0.1em; */
+  cursor: pointer;
+  font-size: 15px;
+  font-weight: bold;
+  border-radius: 30px;
+  padding: 10px;
+  width: 200px;
+  margin-top: 30px;
+}
+.btn-primary:hover {
+  background-color: #386533 !important;
+  border: 2px solid #386533 !important;
+}
+.form-control{
+  background-color: white !important;
+  border: 0px solid transparent !important;
+  border-radius: 0px !important;
+  /* margin-top: 20px; */
+  /* padding-top: 0 !important; */
+}
+.contact-card {
+  background-color: transparent;
+  /* border: 3px solid #d1d1d1; */
+  margin-top: 0 !important;
+  padding: 30px;
+  margin-bottom: -80px;
+}
+.form-group{
+  background-color: #386533 !important;
+  border: 1px solid black !important;
+  border-radius: 0px !important;
+  margin-bottom: 20px;
+}
+.input-left {
+  text-align: left;
+}
+.input-label {
+  padding-left: 12px;
+  padding-top: 6px;
+  font-weight: bold;
+  color: white;
+}
+input:focus, textarea {
+  outline: none !important;
+}
+
+.contact-section-card {
+  background-color: transparent;
+  border: 3px solid transparent;
+}
+
+/* ======================================== */
+/* Mobile */
+@media only screen and (max-width:599px) {
+  .button {
+    width: 75px !important;
+    padding: 1px 5px !important;
+  }
+}
+
+/* ======================================== */
+/* Tablets */
+@media (min-width: 600px) and (max-width: 1049px) {
+  .button {
+    width: 100px !important;
+    padding: 1px 5px !important;
+  }
+}
+
+/* ======================================== */
+/* Desktop */
+@media (min-width: 1050px) {
+  .button {
+    width: 100px !important;
+    padding: 1px 5px !important;
+  }
+}
+
+
+  /* ======================================== */
+/* Mobile */
+@media only screen and (max-width:599px) {
+  .form-group {
+    width: 100% !important;
+  }
+  .contact-column-one {
+    width: 100%;
+  }
+  .contact-column-two {
+    visibility: hidden;
+  }
+}
+
+/* ======================================== */
+/* Tablets */
+@media (min-width: 600px) and (max-width: 1049px) {
+  .form-group {
+    width: 80% !important;
+  }
+  .contact-column-one {
+    width: 75%;
+  }
+  .contact-column-two {
+    width: 25%;
+  }
+}
+
+/* ======================================== */
+/* Desktop */
+@media (min-width: 1050px) {
+  .form-group {
+    width: 80% !important;
+  }
+  .contact-column-one {
+    width: 75%;
+  }
+  .contact-column-two {
+    width: 25%;
+  }
+}
