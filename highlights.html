@@ -1,3 +1,5 @@
+---
+---
 <!DOCTYPE html>
 <html lang="en">
 	<head>
@@ -32,29 +34,13 @@
 		<script src="js/contact.js" type="text/javascript" defer></script>
 		
 		<link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
-		<!-- Begin Jekyll SEO tag v2.8.0 -->
-<title>Off The Rack | A marketplace for young fashion entreprenuers. Our mission is to encourage to shop sustainably while supporting fashion entrepreneurs in our community.</title>
-<meta name="generator" content="Jekyll v4.3.1" />
-<meta property="og:title" content="Off The Rack" />
-<meta property="og:locale" content="en_US" />
-<meta name="description" content="A marketplace for young fashion entreprenuers. Our mission is to encourage to shop sustainably while supporting fashion entrepreneurs in our community." />
-<meta property="og:description" content="A marketplace for young fashion entreprenuers. Our mission is to encourage to shop sustainably while supporting fashion entrepreneurs in our community." />
-<link rel="canonical" href="http://localhost:4000/contact.html" />
-<meta property="og:url" content="http://localhost:4000/contact.html" />
-<meta property="og:site_name" content="Off The Rack" />
-<meta property="og:type" content="website" />
-<meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="Off The Rack" />
-<script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebPage","description":"A marketplace for young fashion entreprenuers. Our mission is to encourage to shop sustainably while supporting fashion entrepreneurs in our community.","headline":"Off The Rack","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/assets/img/profile2.jpg"}},"url":"http://localhost:4000/contact.html"}</script>
-<!-- End Jekyll SEO tag -->
-
+		{% seo %}
 	</head>
 
 	<body>
 
 		<div class="topnav">
-			<contact-nav></contact-nav>
+			<other-nav></other-nav>
 		</div>
 
 		<section>
@@ -62,26 +48,13 @@
 
 				<div align="center">
 					
-					<h1 class="title-btn">CONTACT</h1>
+					<h1 class="title-btn">HIGHLIGHTS</h1>
 
 					<hr style="border: 1px solid black;">
 
-					<p class="title-text">If you have any questions or concerns, please do not hesitate to reach out to our team! </p>
+					<p class="title-text">Submit your information for a chance to be highlighted on our social media accounts! </p>
 
 				</div>
-			</div>
-		</section>
-
-		<section>
-			<div class="container contact-section-card">
-				<div align="center">
-					<a href="https://www.instagram.com/offtherackut/"><img class="button" src="assets/images/icons/insta-black.png" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="200"></a>
-					<a href="mailto:offtherackut@gmail.com"><img class="button" src="assets/images/icons/email.png" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="400"></a>
-					<a href="tel:801-759-9434"><img class="button" src="assets/images/icons/phone.png" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="600"></a>
-					<a href="https://www.tiktok.com/@offtherack.co"><img class="button" src="assets/images/icons/tiktok.png" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="800"></a>
-
-				</div>
-
 			</div>
 		</section>
 
@@ -110,21 +83,35 @@
 										<div class="form-group">
 											<div class="input-left">
 												<label class="input-label">Name *</label>
-												<input type="text" name="name" id="name" placeholder="" required class="form-control" oninvalid="this.setCustomValidity('Please Enter Name')"
+												<input type="text" name="name" id="name" placeholder="" required class="form-control" oninvalid="this.setCustomValidity('Please enter information.')"
 												oninput="this.setCustomValidity('')"/>
 											</div>
 										</div>
 										<div class="form-group">
 											<div class="input-left">
 												<label class="input-label">Email *</label>
-												<input type="email" name="email" id="email" placeholder="" required class="form-control" oninvalid="this.setCustomValidity('Please Enter Email')"
+												<input type="email" name="email" id="email" placeholder="" required class="form-control" oninvalid="this.setCustomValidity('Please enter information.')"
 												oninput="this.setCustomValidity('')"/>
 											</div>
 										</div>
 										<div class="form-group">
 											<div class="input-left">
-												<label class="input-label">Message *</label>
-												<textarea rows="8" name="message" id="message" placeholder="" class="form-control" required oninvalid="this.setCustomValidity('Please Enter Message')"
+												<label class="input-label">Brand Name *</label>
+												<input type="text" name="brand" id="brand" placeholder="" required class="form-control" oninvalid="this.setCustomValidity('Please enter information.')"
+												oninput="this.setCustomValidity('')"/>
+											</div>
+										</div>
+										<div class="form-group">
+											<div class="input-left">
+												<label class="input-label">What is your backstory? *</label>
+												<textarea rows="8" name="message" id="message" placeholder="" class="form-control" required oninvalid="this.setCustomValidity('Please enter information.')"
+												oninput="this.setCustomValidity('')"></textarea>
+											</div>
+										</div>
+										<div class="form-group">
+											<div class="input-left">
+												<label class="input-label">How did you learn about Off The Rack? *</label>
+												<textarea rows="8" name="message" id="message" placeholder="" class="form-control" required oninvalid="this.setCustomValidity('Please enter information.')"
 												oninput="this.setCustomValidity('')"></textarea>
 											</div>
 										</div>
@@ -132,7 +119,7 @@
 									<!-- </div> -->
 			
 										<button type="submit" class="btn-primary">
-											SEND MESSAGE
+											SUBMIT
 										</button>
 										<br>
 										<p class="text-base text-center text-gray-400" id="result"></p>
