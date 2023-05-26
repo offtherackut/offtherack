@@ -17,8 +17,8 @@
   margin-top: 30px;
 }
 .btn-primary:hover {
-  background-color: #386533 !important;
-  border: 2px solid #386533 !important;
+  background-color: #007030 !important;
+  border: 2px solid #007030 !important;
 }
 .form-control{
   background-color: white !important;
@@ -35,7 +35,7 @@
   margin-bottom: -80px;
 }
 .form-group{
-  background-color: #386533 !important;
+  background-color: #007030 !important;
   border: 1px solid black !important;
   border-radius: 0px !important;
   margin-bottom: 20px;

@@ -32,7 +32,7 @@
 }
 
 .topnav a.active {
-  background-color: #386533;
+  background-color: #007030;
   color: white;
 }
 
@@ -127,13 +127,14 @@ body {
 }
 
 .background {
-  background-color: #063f0d;
+  background-color: #007030;
   color: white;
 }
 
 .nav-logo {
-  height: 25px;
-  width: 200px;
+  height: 42.5px;
+  width: 263.5px;
+  margin-top: -7px;
 }
 
 section .container {
@@ -314,7 +315,7 @@ img {
 
 .card-body {
   height: 350pt;
-  background-color: #063f0d;
+  background-color: #007030;
   color: white;
 }
 
@@ -331,9 +332,9 @@ img {
     right: 20px; /* Place the button 30px from the right */
     z-index: 99; /* Make sure it does not overlap */
   }
-  .nav-logo {
+  /* .nav-logo {
     margin-right: 20px;
-  }
+  } */
 }
 
 /* ======================================== */
@@ -617,7 +618,7 @@ img {
 }
 
 section .about-row {
-  background-color: #063f0d;
+  background-color: #007030;
 }
 
 .about-content {
@@ -712,7 +713,7 @@ section .about-row {
     width: 50%;
   }
   .collapsible:hover {
-    background-color: #386533;
+    background-color: #007030;
   }
 }
 
@@ -896,7 +897,7 @@ section .about-row {
   font-size: 70px;
   padding-top: 15px;
   margin-top: 20px;
-  color: #063f0d;
+  color: #007030;
 }
 
 .values {
