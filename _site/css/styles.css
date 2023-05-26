@@ -828,7 +828,6 @@ section .about-row {
 @media only screen and (max-width:599px) {
   .square {
     width: 100%;
-    padding-bottom: 60px !important;
   }
   .empty-column {
     display: none;
@@ -838,6 +837,7 @@ section .about-row {
   }
   .box {
     padding: 25px;
+    padding-bottom: 10px !important;
   }
   .value-size{
     font-size: 23px;
@@ -857,6 +857,7 @@ section .about-row {
   }
   .box {
     padding: 20px;
+    padding-bottom: 40px !important;
   }
   
 }
@@ -873,6 +874,7 @@ section .about-row {
   }
   .box {
     padding: 40px;
+    padding-bottom: 60px !important;
   }
   
 }
