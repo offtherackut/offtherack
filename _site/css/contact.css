@@ -45,6 +45,7 @@
 }
 .input-label {
   padding-left: 12px;
+  padding-right: 12px;
   padding-top: 6px;
   font-weight: bold;
   color: white;
@@ -92,6 +93,10 @@ input:focus, textarea {
   .form-group {
     width: 100% !important;
   }
+  .upload-doc {
+    width: 100% !important;
+  }
+
   .contact-column-one {
     width: 100%;
   }
@@ -106,6 +111,9 @@ input:focus, textarea {
   .form-group {
     width: 80% !important;
   }
+  .upload-doc {
+    width: 80% !important;
+  }
   .contact-column-one {
     width: 75%;
   }
@@ -118,6 +126,9 @@ input:focus, textarea {
 /* Desktop */
 @media (min-width: 1050px) {
   .form-group {
+    width: 80% !important;
+  }
+  .upload-doc {
     width: 80% !important;
   }
   .contact-column-one {

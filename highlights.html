@@ -73,7 +73,7 @@
 				<div class="col-sm-12">
 					<form action="https://api.web3forms.com/submit" method="POST" id="form">
 						<input type="hidden" name="access_key" value="6706fce5-15a3-426b-b3f5-cd49eeb199f5"/>
-						<input type="hidden" name="subject" value="Message"/>
+						<input type="hidden" name="subject" value="Highlights"/>
 
 						<div align="center">
 							<!-- <div class="row"> -->
@@ -82,41 +82,86 @@
 	
 										<div class="form-group">
 											<div class="input-left">
-												<label class="input-label">Name</label>
-												<input type="text" name="name" id="name" placeholder="" required class="form-control" oninvalid="this.setCustomValidity('Please enter information.')"
+												<label class="input-label">Full Name</label>
+												<input type="text" name="Full Name" id="name" placeholder="" required class="form-control" oninvalid="this.setCustomValidity('Please enter information.')"
 												oninput="this.setCustomValidity('')"/>
 											</div>
 										</div>
 										<div class="form-group">
 											<div class="input-left">
-												<label class="input-label">Email</label>
+												<label class="input-label">Business Name</label>
+												<input type="text" name="Business Name" id="name" placeholder="" required class="form-control" oninvalid="this.setCustomValidity('Please enter information.')"
+												oninput="this.setCustomValidity('')"/>
+											</div>
+										</div>
+										<div class="form-group">
+											<div class="input-left">
+												<label class="input-label">Business Instagram Handle</label>
+												<input type="text" name="Business Instagram Handle" id="name" placeholder="" required class="form-control" oninvalid="this.setCustomValidity('Please enter information.')"
+												oninput="this.setCustomValidity('')"/>
+											</div>
+										</div>
+										<div class="form-group">
+											<div class="input-left">
+												<label class="input-label">Email Address</label>
 												<input type="email" name="email" id="email" placeholder="" required class="form-control" oninvalid="this.setCustomValidity('Please enter information.')"
 												oninput="this.setCustomValidity('')"/>
 											</div>
 										</div>
 										<div class="form-group">
 											<div class="input-left">
-												<label class="input-label">Brand Name</label>
-												<input type="text" name="Brand Name" id="brand" placeholder="" required class="form-control" oninvalid="this.setCustomValidity('Please enter information.')"
-												oninput="this.setCustomValidity('')"/>
-											</div>
-										</div>
-										<div class="form-group">
-											<div class="input-left">
-												<label class="input-label">What is your backstory?</label>
-												<textarea rows="8" name="What is your backstory?" id="message" placeholder="" class="form-control" required oninvalid="this.setCustomValidity('Please enter information.')"
+												<label class="input-label">What led you to start your business? Tell us how you got started and why! Feel free to include your personal backstory.</label>
+												<textarea rows="8" name="What led you to start your business? Tell us how you got started and why! Feel free to include your personal backstory." id="message" placeholder="" class="form-control" required oninvalid="this.setCustomValidity('Please enter information.')"
 												oninput="this.setCustomValidity('')"></textarea>
 											</div>
 										</div>
 										<div class="form-group">
 											<div class="input-left">
-												<label class="input-label">How did you learn about Off The Rack?</label>
-												<textarea rows="8" name="How did you learn about Off The Rack?" id="message" placeholder="" class="form-control" required oninvalid="this.setCustomValidity('Please enter information.')"
+												<label class="input-label">Where do you see your business in the next couple of years ideally?</label>
+												<textarea rows="8" name="Where do you see your business in the next couple of years ideally?" id="message" placeholder="" class="form-control" required oninvalid="this.setCustomValidity('Please enter information.')"
 												oninput="this.setCustomValidity('')"></textarea>
 											</div>
 										</div>
+										<div class="form-group">
+											<div class="input-left">
+												<label class="input-label">How is Off The Rack helping you reach your current & future goals?</label>
+												<textarea rows="8" name="How is Off The Rack helping you reach your current & future goals?" id="message" placeholder="" class="form-control" required oninvalid="this.setCustomValidity('Please enter information.')"
+												oninput="this.setCustomValidity('')"></textarea>
+											</div>
+										</div>
+										<div class="form-group">
+											<div class="input-left">
+												<label class="input-label">What do you like about Off The Rack?</label>
+												<textarea rows="8" name="What do you like about Off The Rack?" id="message" placeholder="" class="form-control" required oninvalid="this.setCustomValidity('Please enter information.')"
+												oninput="this.setCustomValidity('')"></textarea>
+											</div>
+										</div>
+
+										<div class="form-group" style="text-align:left;">
+											<div class="input-left">
+												<label class="input-label">Upload photos for your highlight on our social media (.jpg or .png)</label>
+											</div>
+											<div class="input-left">
+												<label class="input-label">Please submit at least two photos to give us options!</label>
+											</div>
+										</div>
+										<div class="upload-doc input-left">
+											<input type="file" id="attachment" name="attachment" accept="image/jpeg,image/png" required oninvalid="this.setCustomValidity('Please upload at least two photo.')"
+											oninput="this.setCustomValidity('')"/>
+										</div>
+										<br>
+										<div class="upload-doc input-left">
+											<input type="file" id="attachment" name="attachment" accept="image/jpeg,image/png" required oninvalid="this.setCustomValidity('Please upload at least two photo.')"
+											oninput="this.setCustomValidity('')"/>
+										</div>
+										<br>
+										<div class="upload-doc input-left">
+											<input type="file" id="attachment" name="attachment" accept="image/jpeg,image/png">
+										</div>
+
 										
 									<!-- </div> -->
+										<br>
 			
 										<button type="submit" class="btn-primary">
 											SUBMIT
