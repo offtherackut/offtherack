@@ -139,23 +139,23 @@ Spring & Fall
 </b></h4>
 
 <li>
-Load-in from 8 a.m. - 10 a.m.
+Load-in from 9:30 a.m. - 11 a.m.
 </li>
 
 <li>
-Set up by 10 a.m.
+Set up by 12 p.m.
 </li>
 
 <li>
-Check in at 9:30 a.m.
+Check in at 11:30 a.m.
 </li>
 
 <li>
-Start packing at 4 p.m.
+Start packing at 6 p.m.
 </li>
 
 <li>
-Be off campus by 6 p.m.
+Be off campus by 7:30 p.m.
 </li>
 
 <br>
@@ -167,7 +167,7 @@ Summer
 </b></h4>
 
 <li>
-Load-in from 10 a.m. - 12 p.m.
+Load-in from 9:30 a.m. - 11 a.m.
 </li>
 
 <li>
@@ -204,7 +204,7 @@ this.innerHTML = `
 <!------------------------------------------------------------------------------------------------------------------------------------>
 
 
-Reservation Fee: $70
+Reservation Fee: $120
 
 
 <!------------------------------------------------------------------------------------------------------------------------------------>
