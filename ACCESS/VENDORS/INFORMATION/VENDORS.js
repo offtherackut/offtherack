@@ -134,7 +134,7 @@ this.innerHTML = `
 
 <h4><b>
 
-Spring & Fall
+
 
 </b></h4>
 
@@ -162,28 +162,28 @@ Be off campus by 7:30 p.m.
 
 <h4><b>
 
-Summer
+
 
 </b></h4>
 
 <li>
-Load-in from 9:30 a.m. - 11 a.m.
+
 </li>
 
 <li>
-Set up by 12 p.m.
+
 </li>
 
 <li>
-Check in at 11:30 a.m.
+
 </li>
 
 <li>
-Start packing at 6 p.m.
+
 </li>
 
 <li>
-Be off campus by 7:30 p.m.
+
 </li>
 
 
