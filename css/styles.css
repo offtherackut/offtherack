@@ -489,8 +489,11 @@ img {
 }
 
 .section-three-card {
-  padding: 30px;
-  margin-top: 0 !important;
+  padding-top: 0px;
+  /* margin-top: 0 !important; */
+  padding-left: 30px;
+  padding-right: 30px;
+  /* padding-bottom: 30px; */
 }
 
 /* .home-background {
