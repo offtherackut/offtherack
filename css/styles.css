@@ -882,6 +882,66 @@ section .about-row {
 
 /* ==================================================================================== */
 
+/* Reserve Page */
+
+/* ==================================================================================== */
+
+.reserve-dates {
+  font-size: 18px;
+}
+
+.reserve-btn {
+  /* font-family: 'Georgia', sans-serif !important; */
+  font-size: 20px;
+  background-color: transparent;
+  border: 3px solid white;
+  border-radius: 4px;
+  display: inline-block;
+  color: white;
+  margin: 10px;
+  text-align: center;
+  text-decoration: none;
+  padding: 7px;
+  width: 230px;
+}
+
+.reserve-btn:hover {
+  background-color: black;
+  border: 3px solid black;
+  border-radius: 4px;
+  color: white;
+  text-decoration: none;
+}
+
+/* ======================================== */
+/* Mobile */
+@media only screen and (max-width:599px) {
+  .reserve-month {
+    font-size: 23px !important;
+  }
+  
+}
+
+/* ======================================== */
+/* Tablets */
+@media (min-width: 600px) and (max-width: 1049px) {
+  /* .reserve-dates {
+    font-size: 23px !important;
+  } */
+  
+}
+
+/* ======================================== */
+/* Desktop */
+@media (min-width: 1050px) {
+  .reserve-month {
+    font-size: 25px !important;
+  }
+  
+}
+
+/* ==================================================================================== */
+
 /* Careers Page */
 
 /* ==================================================================================== */
