@@ -156,7 +156,7 @@ Start packing at 6 p.m.
 
 <li>
 Be off campus by 7:30 p.m.
-<>
+</li>
 
 <br>
 
