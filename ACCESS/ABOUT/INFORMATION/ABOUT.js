@@ -40,7 +40,7 @@ this.innerHTML = `
 <!------------------------------------------------------------------------------------------------------------------------------------>
 
 
-It aims to cultivate a community for young creative entrepreneurs while mitigating fast fashion.
+We cultivate a community for creative entrepreneurs while promoting promoting sustainability and creativity.
 
 
 <!------------------------------------------------------------------------------------------------------------------------------------>
@@ -97,10 +97,7 @@ this.innerHTML = `
 <!------------------------------------------------------------------------------------------------------------------------------------>
 
 
-Considering the exponential growth of start-up apparel lines in younger generations, there are still a vast number of young entrepreneurs who 
-have yet to find a platform to fulfill their business needs. Young fashion entrepreneurs with plenty of skills and determination, still lack a 
-platform to sell and market their products and services. With over 27,000 fashion entrepreneurs today, young entrepreneurs often find it difficult 
-to find their market in the fashion industry.
+We are committed to bringing together a community–of diverse vendors, shoppers, and participants from various backgrounds and interests. We foster an environment where everyone feels welcome and valued, promoting an inclusive space for sharing and exchanging goods, ideas, and experiences.
 
 
 <!------------------------------------------------------------------------------------------------------------------------------------>
@@ -157,11 +154,7 @@ this.innerHTML = `
 <!------------------------------------------------------------------------------------------------------------------------------------>
 
 
-The fast fashion industry itself is responsible for creating 80 billion garments a year. That is more than 10 garments per person on earth. 
-The industry has also increased production by more than 400% over the last 20 years. With this increased production there is now an increase 
-in clothing waste. Americans alone are responsible for 16 tons of textile waste per person per year. Fast fashion is a big problem and part of 
-the reason textile waste keeps increasing. 
-
+We are committed to sustainability. We do this by promoting the reuse, recycling, and repurposing of items, contributing to a more eco-friendly consumption culture. By supporting and involving local businesses, artisans, and entrepreneurs, thereby strengthening the local economy and creating a platform for showcasing unique products.
 
 <!------------------------------------------------------------------------------------------------------------------------------------>
 <!------------------------------------------------------------------------------------------------------------------------------------>
@@ -217,7 +210,7 @@ this.innerHTML = `
 <!------------------------------------------------------------------------------------------------------------------------------------>
 
 
-The young generation of entrepreneurs are the most creative. 
+We are committed to creativity. While promoting a culture of creativity and curiosity, there are opportunities for attendees to discover new skills, interests, and hobbies. By creating an environment that encourages personal growth and fosters a sense of exploration, we offer both vendors and attendees a creative outlook.
 
 
 <!------------------------------------------------------------------------------------------------------------------------------------>
