@@ -40,7 +40,7 @@ this.innerHTML = `
 <!------------------------------------------------------------------------------------------------------------------------------------>
 
 
-We cultivate a community for creative entrepreneurs while promoting promoting sustainability and creativity.
+We cultivate a community for creative entrepreneurs while promoting sustainability and creativity.
 
 
 <!------------------------------------------------------------------------------------------------------------------------------------>
