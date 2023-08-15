@@ -268,7 +268,7 @@ this.innerHTML = `
 
 
 Susma Gurung graduated from the University of Utah. She majored in Marketing and minored in Environmental & Sustainability Studies. 
-Her love for entrepreneurship and fashion led her to start Off The Rack. Through her work, she hopes to inspire and empower other 
+Her love for entrepreneurship and fashion led her to start Fashion in Business, a studnt organization at the University of Utah. After leading the team for 2 years, she founded Off The Rack. Through her work, she hopes to inspire and empower other 
 young creatives to pursue their passion and make an impact with their work.
 
 
@@ -318,7 +318,7 @@ this.innerHTML = `
 <!------------------------------------------------------------------------------------------------------------------------------------>
 
 
-Michael Is a senior majoring in Marketing, Operations, and Supply Chain at the University of Utah. He has been a vendor himself 
+Michael is going to be working in the marketing department for GAP this semester. He majored in Marketing and Operations & Supply Chain at the University of Utah. He has been a vendor himself 
 and wants to help elevate the pain points for new small business owners. He plans to use his knowledge from his work experience to 
 help grow Off The Rack.
 
