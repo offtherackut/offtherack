@@ -99,16 +99,16 @@ Vendor spaces will be assigned first come basis at load-in.
 </li>
 
 <li>
-You are provided with a 10x10 space. It is your responsibility to set up/take down, and clean anything that you see fit.
+Make sure to keep your shop within a 10x10 space you are provided. It is your responsibility to set up/take down, and clean anything that you see fit.
 </li>
 
 <li>
-Please note that any tents/canopies must be weighted down on all 4 corners in order to be used: failure to do so will result in our team 
+Please note that any tents/canopies must be weighted down on all 4 corners with a minimum of 25lbs per EACH leg in order to be used: failure to do so will result in our team 
 asking you to take it down.
 </li>
 
 <li>
-Off The Rack does not provide tents, tent weights, tables, chairs, or any supplies.
+Off The Rack does not provide tents, tent weights, tables, chairs, or any supplies. It is your responsibility to come prepared.
 </li>
 
 <li>
@@ -143,15 +143,15 @@ Load-in from 9:30 a.m. - 11 a.m.
 </li>
 
 <li>
-Set up by 12 p.m.
+STRCTLY set up by 12 p.m. Late Vendors are not permitted for future markets. 
 </li>
 
 <li>
-Check in at 11:30 a.m.
+Our team will check you in at 11:30 a.m.
 </li>
 
 <li>
-Start packing at 6 p.m.
+Start STRICTLY packing at 6 p.m. Not any time before or after.
 </li>
 
 <li>
