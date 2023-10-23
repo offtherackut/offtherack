@@ -264,7 +264,7 @@ class Footer extends HTMLElement {
             <div class="footer-margin"></div>
             
             <div class="mobile-center">
-              <a href="https://www.instagram.com/offtherackut/"><img class="contacts-btn" src="assets/images/icons/insta-black.png"></a>
+              <a href="https://www.instagram.com/offtherackofficial_/"><img class="contacts-btn" src="assets/images/icons/insta-black.png"></a>
               <a href="mailto:offtherackut@gmail.com"><img class="contacts-btn" src="assets/images/icons/email.png"></a>
               <a href="tel:801-759-9434"><img class="contacts-btn" src="assets/images/icons/phone.png"></a>
               <a href="https://www.tiktok.com/@offtherack.co"><img class="contacts-btn" src="assets/images/icons/tiktok.png"></a>
@@ -295,7 +295,7 @@ class Footer2 extends HTMLElement {
       <footer>
                 
           <div class="mobile-center fixed-footer">
-            <a href="https://www.instagram.com/offtherackut/"><img class="contacts-btn" src="assets/images/icons/insta-black.png"></a>
+            <a href="https://www.instagram.com/offtherackofficial_/"><img class="contacts-btn" src="assets/images/icons/insta-black.png"></a>
             <a href="mailto:offtherackut@gmail.com"><img class="contacts-btn" src="assets/images/icons/email.png"></a>
             <a href="tel:801-759-9434"><img class="contacts-btn" src="assets/images/icons/phone.png"></a>
             <a href="https://www.tiktok.com/@offtherack.co"><img class="contacts-btn" src="assets/images/icons/tiktok.png"></a>
